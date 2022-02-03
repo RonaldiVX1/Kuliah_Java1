@@ -1,0 +1,18 @@
+child class dibuat untuk memanggil saja sepertinya..
+
+
+cabang = indomaret (tak hingga), toko suka maju 
+gojek = karyawan
+
+
+nama 	(string) , cabang (int)		, jumlah karyawan (int)	, saham (int) 	(1) normal
+indomaret(string), tak hingga (string)	, 1000000 (int)		, 5000  (int)	(2) cabang (string)
+gojek (string) 	 , 5 (int)		, tak hingga (string)	, 7000  (int)	(3) jumlah karyawan (string)
+toko (string)	 , 1 (int) 		, 5 (int) 		, kosong 	(4) saham kosong 
+
+
+4 method ada di parent
+
+setiap child class menggunakan constructor yg berbeda.
+
+  
