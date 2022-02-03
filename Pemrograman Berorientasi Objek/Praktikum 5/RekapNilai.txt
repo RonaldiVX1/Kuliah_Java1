@@ -1,0 +1,4 @@
+Nama		: ucup
+Mata Kuliah	: berenang
+Nilai		: 90
+
